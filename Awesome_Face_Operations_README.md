@@ -1,6 +1,8 @@
-# More Awesome Face Operations That Can Be Added Here  
+# More Awesome Face Operations That Can Be Added Here 
 
-! [Face_Alignment] (https://raw.githubusercontent.com/YadiraF/PRNet/master/Docs/images/alignment.jpg "Facial Alignment Analysis”)
+![NASNet Model Architecture](https://raw.githubusercontent.com/titu1994/Keras-NASNet/master/images/nasnet_mobile.png)
+
+![Face_Alignment](https://raw.githubusercontent.com/YadiraF/PRNet/master/Docs/images/alignment.jpg)
 
 ### Face Detection
 ### Face Alignment
