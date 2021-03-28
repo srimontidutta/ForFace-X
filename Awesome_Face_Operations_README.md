@@ -28,22 +28,6 @@
 ### Face Retrieval
 ### Face Application
 
-> * **[Face Detection && Face Segmentation](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-detection--face-segmentation)**;   
-> * **[Face Alignment](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-alignment)**;   
-> * **[Face Recognition && Face Identification && Face Verification && Face Representation ](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-recognition--face-representations)**;  
-> * **[Face(Facial) Attribute && Face(Facial) Analysis](https://github.com/ChanChiChoi/awesome-Face_Recognition#facefacial-attribute--facefacial-analysis--face-quality)**;   
-> * **[Face Reconstruction && Face 3D](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-reconstruction--face-3d)**;   
-> * **[Face Tracking](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-tracking)**;   
-> * **[Face Clustering](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-clustering)**;  
-> * **[Face Super-Resolution && Face Deblurring && Face Hallucination](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-super-resolution--face-deblurring---face-hallucination)**;   
-> * **[Face Generation && Face Synthesis && Face Completion && Face Restoration && Face De-Occlusion](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-generation--face-synthesis--face-completion--face-restoration--face-de-occlusion--face-reenactment)**;   
-> * **[Face Transfer && Face Editing](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-transfer--face-editing) && Face swapping**;   
-> * **[Face Anti-Spoofing](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-anti-spoofing)**;   
-> * **[Face Retrieval](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-retrieval)**; 
-> * **[Face Application](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-application)**; 
-> * **[Model Accleration && Model Compression](https://github.com/ChanChiChoi/awesome-Face_Recognition#model-acceleration--model-compression)**; 
-> * **[DataSets](https://github.com/ChanChiChoi/awesome-Face_Recognition#datasets)**
-
 ---
 ## Piplines
 
