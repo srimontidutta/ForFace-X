@@ -1,6 +1,6 @@
 # More Awesome Face Operations That Can Be Added Here  
 
-![Face Alignment] (https://raw.githubusercontent.com/1adrianb/face-alignment/master/docs/images/2dlandmarks.png "Facial Alignment Analysis”)
+![Face_Alignment] (https://raw.githubusercontent.com/YadiraF/PRNet/master/Docs/images/alignment.jpg "Facial Alignment Analysis”)
 
 ### Face Detection
 ### Face Alignment
