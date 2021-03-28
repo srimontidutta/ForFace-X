@@ -1,6 +1,6 @@
 # More Awesome Face Operations That Can Be Added Here  
 
-![Face Swap](https://camo.githubusercontent.com/4c8848e79bcc92e61653f11eafa8d97b316b6ec470a0eefd258700f407c3dc6b/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f72316a6e673739613578632f302e6a7067 "Jennifer Lawrence/Steve Buscemi FaceSwap using the Villain model”)
+![Face Alignment](https://raw.githubusercontent.com/1adrianb/face-alignment/master/docs/images/2dlandmarks.png "Facial Alignment Analysis”)
 
 ### Face Detection
 ### Face Alignment
