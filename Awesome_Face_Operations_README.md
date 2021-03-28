@@ -70,7 +70,7 @@
 > * **Face Attributes**   
 > * **Others**   
 
-#### 2D face recognition
+### 📌 2D Face Recognition
 
 | Datasets                   | Description                                                  | Links                                                        | Publish Time |
 | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
@@ -85,7 +85,7 @@
 | **Mut1ny**🏅                | head/face segmentation dataset contains over 17.3k labeled images | [Download](http://www.mut1ny.com/face-headsegmentation-dataset) | 2018         |
 | **IMDB-Face**              | The dataset contains about 1.7 million faces, 59k identities, which is manually cleaned from 2.0 million raw images. | [Download](https://github.com/fwang91/IMDb-Face)             | 2018         |
 
-#### video face recognition 
+### 📌 Video Face Recognition 
 
 | Datasets                    | Description                                                  | Links                                                        | Publish Time |
 | --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
@@ -95,7 +95,7 @@
 | **YTC**                     | The data consists of two parts: video clips (1910 sequences of 47 subjects) and initialization data(initial frame face bounding boxes, manually marked). | [Download](http://seqamlab.com/youtube-celebrities-face-tracking-and-recognition-dataset/) | 2008         |
 | **iQIYI-VID**🏅              | The iQIYI-VID dataset **contains 500,000 videos clips of 5,000 celebrities, adding up to 1000 hours**. This dataset supplies multi-modal cues, including face, cloth, voice, gait, and subtitles, for character identification. | [Download](http://challenge.ai.iqiyi.com/detail?raceId=5b1129e42a360316a898ff4f) | 2018         |
 
-#### 3D face recognition 
+### 📌3D Face Recognition 
 
 | Datasets       | Description                                                  | Links                                                        | Publish Time |
 | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
@@ -105,7 +105,7 @@
 | **FRGC V2.0**  | 466 subjects and 4007 of 3D Face, Visible Face Images        | [Download](https://sites.google.com/a/nd.edu/public-cvrl/data-sets) | 2005         |
 | **B3D(AC)^2**  | **1000** high quality, dynamic **3D scans** of faces, recorded while pronouncing a set of English sentences. | [Download](http://www.vision.ee.ethz.ch/datasets/b3dac2.en.html) | 2010         |
 
-#### Anti-spoofing  
+### 📌 Anti-Spoofing  
 
 | Datasets          | \# of subj. / \# of sess. | Links                                                        | Year | Spoof attacks attacks | Publish Time |
 | ----------------- | :-----------------------: | ------------------------------------------------------------ | ---- | --------------------- | ------------ |
@@ -117,7 +117,7 @@
 | **Oulu-NPU**      |           55/3            | [Download](https://sites.google.com/site/oulunpudatabase/)   | 2017 | **2 Print, 6 Replay** | 2017         |
 | **Siw**           |           165/4           | [Download](http://cvlab.cse.msu.edu/spoof-in-the-wild-siw-face-anti-spoofing-database.html) | 2018 | **2 Print, 4 Replay** | 2018         |
 
-#### cross age and cross pose
+### 📌 Cross-Age and Cross-Pose
 
 | Datasets     | Description                                                  | Links                                                        | Publish Time |
 | ------------ | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------ |
@@ -148,7 +148,7 @@
 | **EmotioNet**                        | The EmotioNet database includes**950,000 images** with **annotated AUs**.  A **subset** of the images in the EmotioNet database correspond to **basic and compound emotions.** | [Download](http://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/index.html#overview) | **AU and Emotion**                           | 2017         |
 | **RAF( Real-world Affective Faces)** | **29672** number of **real-world images**,  including **7** classes of basic emotions and **12** classes of compound emotions,  **5 accurate landmark locations**,  **37 automatic landmark locations**, **race, age range** and  **gender** **attributes** annotations per image | [Download](  <http://www.whdeng.cn/RAF/model1.html>)         | **Emotions、landmark、race、age and gender** | 2017         |
 
-### 📌 Others：
+### 📌 Others
 
 | Datasets           | Description                                                  | Links                                                        | Publish Time |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
